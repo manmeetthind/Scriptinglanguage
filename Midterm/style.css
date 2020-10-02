@@ -1,0 +1,43 @@
+#heading{
+    font-size: 50px;
+    text-align: center;
+    color: burlywood;
+}
+
+#Question1{
+    font-size: 40px;
+    text-align: center;
+    color: red;
+
+}
+
+#txtRadius{
+  margin-left: 500px;
+  font-size: 30px;
+}
+
+#button1{
+    color: black;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+
+#age{
+    font-size: 30px;
+  }
+  
+ #Answer1{
+	 text-align: center;
+	 color: blue;
+ }
+ 
+ #Answer2{
+	 text-align: center;
+	 color: blue;
+ }
+ 
+ #Answer3{
+	 text-align: center;
+	 color: blue;
+ }
